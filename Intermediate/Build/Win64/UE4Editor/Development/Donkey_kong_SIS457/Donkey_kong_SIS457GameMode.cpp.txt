@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\Definitions.Donkey_kong_SIS457.h
+C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Source\Donkey_kong_SIS457\Donkey_kong_SIS457GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Inc\Donkey_kong_SIS457\Donkey_kong_SIS457GameMode.generated.h
+C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Source\Donkey_kong_SIS457\Donkey_kong_SIS457Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Inc\Donkey_kong_SIS457\Donkey_kong_SIS457Character.generated.h
+C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Source\Donkey_kong_SIS457\obstaculos.h
+C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Source\Donkey_kong_SIS457\enemigo.h
+C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Inc\Donkey_kong_SIS457\enemigo.generated.h
+C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Inc\Donkey_kong_SIS457\obstaculos.generated.h

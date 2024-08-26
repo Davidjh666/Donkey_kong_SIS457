@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Donkey_kong_SIS457-6879.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\Donkey_kong_SIS457Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\barriles.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\Donkey_kong_SIS457.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\Donkey_kong_SIS457Character.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\Donkey_kong_SIS457GameMode.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\enemigo.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\llamas.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\obstaculos.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\picos.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\plataforma_movil.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\barriles.gen.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\Donkey_kong_SIS457.init.gen.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\Donkey_kong_SIS457Character.gen.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\Donkey_kong_SIS457GameMode.gen.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\enemigo.gen.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\llamas.gen.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\obstaculos.gen.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\picos.gen.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\plataforma_movil.gen.cpp.obj"
+"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\Default.rc2.res"
+/OUT:"C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\UE4Editor-Donkey_kong_SIS457-6879.lib"

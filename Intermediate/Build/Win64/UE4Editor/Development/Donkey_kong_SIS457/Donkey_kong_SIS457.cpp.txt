@@ -1,0 +1,2 @@
+C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\Donkey_kong_SIS457\Definitions.Donkey_kong_SIS457.h
+C:\Users\lenovo\Documents\Unreal Projects\Donkey_kong_SIS457\Source\Donkey_kong_SIS457\Donkey_kong_SIS457.h
